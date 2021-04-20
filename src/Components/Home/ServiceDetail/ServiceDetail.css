@@ -1,0 +1,7 @@
+.animate{
+    border:1px solid lightgrey;
+    box-shadow: 1px 1px 1px black;
+}
+.animate:hover{
+    transform: translateY(40px)
+}
